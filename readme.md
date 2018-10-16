@@ -72,3 +72,6 @@ Seguem alguns eventos comuns:
 [Eventos de mouse](https://api.jquery.com/category/events/mouse-events/)
 [Eventos de teclado](https://api.jquery.com/category/events/keyboard-events/)
 [Eventos de formulário](https://api.jquery.com/category/events/form-events/)
+
+**Cheat Sheet**
+[Documentação Alternativa](https://oscarotero.com/jquery/)
